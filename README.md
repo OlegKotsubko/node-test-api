@@ -1,2 +1,3 @@
 # node-test-api
-Node js test API
+To install dependencies use `npm install`
+To Develop start use `npm dev`
